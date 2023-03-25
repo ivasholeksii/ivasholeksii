@@ -1,6 +1,7 @@
 # Hi there! 
 My name is Oleksii Ivashchenko and I'm a Senior Quality Assurance Engineer! :wave:
-My passion is software quality and making it go left.
+
+My passion is software quality and pushing it to the left.
 
 ### :wrench:  Technical Skills:
 
