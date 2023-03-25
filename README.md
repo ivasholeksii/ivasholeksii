@@ -22,4 +22,4 @@ My passion is software quality and pushing it to the left.
 - :musical_keyboard: Drumming
 - :video_game: Good single-player games
 
-<img src="./assets/comics_style_drawing_motorcycle_adventurre_traveler.png" alt="motorcycle adventure traveler drawing" width="400" height="400" />
+<img src="./assets/comics_style_drawing_motorcycle_adventurre_traveler.png" alt="motorcycle adventure traveler drawing" width="300" height="300" />
