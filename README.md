@@ -22,7 +22,7 @@ Feel free to explore and make use of the public repositories here for your own p
 
 ### :headphones: I can talk a lot about
 
-- :first-aid-kit: First aid (I am a certified first responder)
+- :hospital: First aid (I am a certified first responder)
 - :motorcycle: Motorcycle solo traveling
 - :musical_keyboard: Drumming
 - :video_game: Good single-player games
