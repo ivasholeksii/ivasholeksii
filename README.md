@@ -1,6 +1,6 @@
 # Hi there! 
 
-My name is **Oleksii Ivashchenko** and I'm a Senior QA Engineer/Team Lead! :wave:
+:wave: My name is **Oleksii Ivashchenko** and I'm a Senior QA Engineer/Team Lead! 
 
 My passion is assuring software quality and shifting it left. As I like to say - "Quality is not an act, it is a habit" and "Software development is a team sport", so I’m driven by a belief that quality is a collective responsibility. By building a shared mindset, I help teams understand that we’re all in the same boat, each accountable for creating a high-quality product. 
 
