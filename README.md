@@ -6,13 +6,15 @@ My passion is assuring software quality and shifting it left. As I like to say -
 
 In today’s fast-paced world, we need to deliver software in much shorter iterations, making automation essential to maintain speed and consistency. Focusing on quality early will reduces costs and encourages everyone to play an active role in delivering a solid, reliable product from the start.
 
+I’m an active AI user and advocate for the safe, secure, and effective adoption of AI in QA activities. I believe that when used responsibly, AI can be a powerful tool to support teams in driving better quality outcomes and accelerating delivery.
+
 Feel free to explore and make use of the public repositories here for your own projects or learning. I’m happy to share these resources with the community, believing that knowledge and tools should be accessible to everyone. Whether you’re looking to improve quality practices or explore new ideas, I hope these repositories help you along the way.
 
 ### :wrench:  Technical Skills:
 
-- **Programming languages**: Javascript/Typescript (main stack), but also worked with Java, C#, Python (in-progress...);
-- **Testing tools**: Playwright, Selenium Webdriver (old but gold), Cypress, Postman, Insomnia;
-- **Management tools**: Linear, Testomat, Jira, Zephyr, X-Ray, Basecamp;
+- **Programming languages**: Javascript/Typescript (main stack), but also worked with Java, C#;
+- **Testing tools**: Playwright, Cypress, Postman, Insomnia, Selenium Webdriver (old but gold and forever in QA hall of fame);
+- **Management tools**: Linear, Testomat, Jira, Zephyr, X-Ray;
 
 ### :telephone_receiver: Find me also in:
 
@@ -22,8 +24,7 @@ Feel free to explore and make use of the public repositories here for your own p
 
 ### :headphones: I can talk a lot about
 
-- :hospital: First aid (I am a certified first responder)
-- :motorcycle: Motorcycle solo traveling
+- :hospital: First aid (I am a certified first responder and instructor)
 - :musical_keyboard: Drumming
 - :video_game: Good single-player games
 
